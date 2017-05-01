@@ -1,0 +1,11 @@
+.Comment-card {
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+}
+
+.Comment-creationDate {
+    color: darkgray;
+    font-style: italic;
+}
